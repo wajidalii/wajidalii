@@ -8,7 +8,7 @@
 	<a href="mailto:wajidalii.me@gmail.com" target="_blank">
 		<img src="https://shields.io/badge/-e--mail-red?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=333" />
 	</a> 
-	<a href="www.wajidalii.netlify.app" target="_blank">
+	<a href="https://wajidali.netlify.app/" target="_blank">
 		<img src="https://shields.io/badge/-WEBSITE-2B579A?style=for-the-badge&logo=website&logoColor=fff&labelColor=333" />
 	</a>
 	<a href="https://github.com/wajidalii" target="_blank">
@@ -33,7 +33,7 @@
 <br><br><br><br>
 
 <div align="center">
-	<a href="www.wajidalii.netlify.app" target="_blank">
+	<a href="www.wajidali.netlify.app" target="_blank">
 		<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff">
 	</a> 
 	<a href="https://github.com/wajidalii/" target="_blank">
