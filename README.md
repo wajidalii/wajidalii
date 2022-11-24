@@ -33,7 +33,7 @@
 <br><br><br><br>
 
 <div align="center">
-	<a href="www.wajidali.netlify.app" target="_blank">
+	<a href="https://wajidali.netlify.app/" target="_blank">
 		<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff">
 	</a> 
 	<a href="https://github.com/wajidalii/" target="_blank">
