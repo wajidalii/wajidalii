@@ -1,107 +1,86 @@
-<h1 align="center">Hi there! 
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
-</h1>
-
-<p align="center">My name is  <b><code>Wajid Ali</code></b>. I am a <code>full-stack web developer</code> with a passion for building smart and easy-to-use applications. I am a perfectionist with a sense of detail and ensure quality and high professionalism in everything I do. One word – <code>programmer</code>.</p>
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
+<h3 align="center">I’m <b>Wajid Ali</b> — a Full-Stack Engineer building scalable, user-centric web applications.</h3>
 
 <p align="center">
-	<a href="mailto:wajidalii.me@gmail.com" target="_blank">
-		<img src="https://shields.io/badge/-e--mail-red?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=333" />
-	</a> 
-	<a href="https://wajidali.netlify.app/" target="_blank">
-		<img src="https://shields.io/badge/-WEBSITE-2B579A?style=for-the-badge&logo=website&logoColor=fff&labelColor=333" />
-	</a>
-	<a href="https://github.com/wajidalii" target="_blank">
-		<img src="https://shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=333" />
-	</a> 
+  <a href="https://wajidali.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/wajidalii" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/wajid-alii/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+  </a>
+  <a href="mailto:wajidalii.me@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
+  </a>
+  <a href="https://wa.me/923067071981?text=Hi%20Wajid%20Ali" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=ffffff" alt="WhatsApp" />
+  </a>
 </p>
 
-<h2></h2>
+---
 
-<img align="right" alt="GIF" src="https://github.com/wajidalii/wajidalii/blob/main/code.gif?raw=true" width="500" height="320" />
-  
-- 😄 Pronounce me as `/wajid-ali/`
-- 🎓 Alumni of Information Technology University Lahore
-- ‍🎓 Bachelor of Science in Computer Science
-- 🏛 Working on multiple freelancing projects
-- ⚡ Expert Full Stack Engineer
-- 🌱 Currently expanding my knowledge and experience
-- 🔭 Always on lookout for amazing opportunities
-- 🇵🇰 Lahore, Punjab, Pakistan
-- 📱 (+92) 306 7071981
+## 🚀 About Me
+- 🔭 **Current Role:** Senior Full-Stack Developer at Bin Delamah Contracting Company, Saudi Arabia  
+- 🎓 **Education:** BSc in Computer Science, Information Technology University Lahore, Punjab, Pakistan  
+- 🌱 **Interests:** Advanced Express.js & React.js patterns, scalable architectures, clean code  
+- ⚡ **Passions:** Building smart, intuitive, and performant applications; mentoring peers  
+- 🌍 **Location:** Lahore, Punjab, Pakistan (GMT +05:00) — open to remote collaborations  
 
-<br><br><br><br>
+---
 
-<div align="center">
-	<a href="https://wajidali.netlify.app/" target="_blank">
-		<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff">
-	</a> 
-	<a href="https://github.com/wajidalii/" target="_blank">
-		<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff">
-	</a> 
-	<a href="https://www.linkedin.com/in/wajid-alii/" target="_blank">
-		<img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
-	</a>
-	<a href="mailto:wajidalii.me@gmail.com" target="_blank">
-		<img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff">
-	</a>
-	<a href="https://wa.me/923067071981?text=%23Github" target="_blank">
-		<img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff">
-	</a>
-</div>
-
-<h2></h2>
-
-<h2 align="center">Languages, tools and technologies that I use:</h2>
+## 🛠️ Core Technologies  
 
 <p align="center">
-	<img src="https://img.shields.io/badge/-JavaScript-e3f248?style=flat-square&logo=JavaScript&logoColor=yellow" />
-	<img src="https://img.shields.io/badge/-TypeScript-216186?style=flat-square&logo=TypeScript&logoColor=blue" />
-	<img src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=React&logoColor=61DAFB" />
-	<img src="https://img.shields.io/badge/-Laravel-777BB4?style=flat-square&logo=laravel&logoColor=red" />
-	<img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
-	<img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-	<img src="https://img.shields.io/badge/-webpack-2b3a42?style=flat-square&logo=webpack&logoColor=8DD6F9" />
-	<img src="https://img.shields.io/badge/-styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
-	<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-	<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
-	<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
-	<img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-	<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=fff" />
-	<img src="https://img.shields.io/badge/-Unity3D-000000?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=fff" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=fff" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff" alt="Figma" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=fff" alt="Styled Components" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=fff" alt="Prettier" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=fff" alt="Sass" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=fff" alt="Unity3D" />
 </p>
 
-<h2></h2>
+---
+
+## 📂 Selected Projects
+
+| Project                                             | Tech Stack                                    | Highlights                                                                                 |
+| --------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **EquipmentHub**                                     | React, Express, MySQL                         | Marketplace for heavy-equipment rental & sales; bidding system, real-time chat, search.   |
+| **HRMS & Employee Iqama Module**                    | React, Express, MySQL                         | Internal HR management system; automated Iqama workflows and document notifications.       |
+| **My Task Manager (To-Do Clone)**                    | React, Express, MySQL                         | Group sharing, member notifications, drag-and-drop UI, role-based permission controls.     |
+| **Traffic Violations API & PDF Integration**         | Node.js, MySQL                                 | Complex SQL joins, PDF generation, secure endpoints, performance optimizations.            |
+
+---
 
 <details>
-	<summary>
-		Git Hub Stats 📝
-	</summary>
-	<p>
-		<center>
-			<div align="center">
-				<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajidalii&theme=dark&layout=compact&langs_count=20"/>
-			</div>
-			<br>
-			<div align="center">
-				<img align="center"  src="https://github-readme-stats.vercel.app/api?username=wajidalii&theme=dark"/>
-			</div>
-			<br>
-			<p align="center">
-				<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wajidalii&theme=dark&hide_border=true"/>
-			</p>
-			<p align="center">
-				<img src="https://metrics.lecoq.io/wajidalii" alt="Github Metrics" />
-			</p>
-		</center>
-	</p>
+  <summary><strong>📈 GitHub Stats</strong></summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=wajidalii&show_icons=true&theme=dark" alt="GitHub Stats" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajidalii&layout=compact&theme=dark" alt="Top Languages" />
+  </p>
 </details>
 
-<h2></h2>
+---
 
-<h3 align="center">
-	Show some ❤ by
-	<img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .
-</h3>
+## 🤝 Let’s Connect
 
-<h2></h2>
+- 📫 **Email:** wajidalii.me@gmail.com  
+- 💬 **WhatsApp:** [+92 306 7071981](https://wa.me/923067071981?text=Hi%20Wajid%20Ali)  
+- 🌐 **Website:** https://wajidali.netlify.app  
+
+---
+
+⭐️ If you like my work, give my repos a star!
