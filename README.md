@@ -77,9 +77,6 @@ $ building     →  systems that don't page you at 3am
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wajidalii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" height="160"/>
-&nbsp;
-
 <br/><br/>
 
 <sub>⚡ Crafted with intent — not generated with defaults</sub>
