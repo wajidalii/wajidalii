@@ -1,85 +1,106 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=140&section=header&text=Wajid%20Ali&fontSize=48&fontColor=e2e8f0&fontAlignY=55&animation=fadeIn" width="100%"/>
 
-# Wajid Ali
-
-**Full Stack Engineer · Backend Architecture · Real-Time Systems · AI Integrations**
-
-[![Email](https://img.shields.io/badge/Email-wajidalii.me%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:wajidalii.me@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-wajidali.netlify.app-0d1117?style=flat-square&logo=netlify&logoColor=white&labelColor=0d1117)](https://wajidali.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/wajid-alii)
-
-</div>
-
------
-
-## About
-
-Full Stack Engineer with 4+ years building enterprise-grade web applications across Saudi Arabia and Pakistan. I specialize in **backend architecture**, **real-time systems**, and **AI integrations** — designing for scale, security, and reliability from day one.
-
-Currently at **Bin Delamah Contracting Co. (KSA)**, where I architect and maintain a full-stack HRMS serving 2,000+ employees with real-time processing and zero-downtime infrastructure.
-
------
-
-## Tech Stack
-
-```
-Languages     JavaScript · TypeScript · C# · PHP · Python · Java · C/C++
-Frontend      React.js · Redux · Angular · HTML5/CSS3 · WebSockets · SSE
-Backend       Express.js · .NET Core · Laravel · JWT Auth · RBAC
-Architecture  MVC · Repository Pattern · Unit of Work · Layered Architecture
-Databases     MySQL · MSSQL · Oracle · Firebase · Firestore
-Real-Time     Socket.io · WebSockets · SSE · Clustering · Multithreading
-DevOps        Linux · Nginx · PM2 · Docker · GitHub Actions · Google Cloud
-Security      Helmet · Rate Limiting · OAuth2 / OpenID Connect · Sanitizers
-Testing       Jest · SuperTest · Unit Testing
-Integrations  OpenAI API · Nango · n8n · Google OAuth · Google Workflows
-```
-
------
-
-## Experience Highlights
-
-**Bin Delamah Contracting Co.** — Software Engineer *(Sep 2023 – Present · KSA)*
-
-- Built full-stack HRMS scaling to **2,000+ employees** with real-time processing
-- Architected layered backend using Unit of Work + Repository patterns in Express.js / MySQL
-- Engineered AI chatbot (OpenAI API) for natural-language employee data queries
-- Led Windows → Linux migration (PM2 + Nginx) — achieved 24/7 uptime
-- Automated CI/CD + daily MySQL backups → **100% backup reliability**
-- Reduced front-end bugs by **25%** (Redux) and dev time by **20%** (component library)
-
-**Devsinc** — Software Engineer *(Jan 2022 – Aug 2023 · Lahore)*
-
-- Integrated OAuth2 / OpenID Connect — eliminated credential-based vulnerabilities
-- Refactored Laravel backend queries → **40% faster API response times**
-- Reduced client-reported production issues by **30%** across React.js / .NET Core stacks
-- Sustained **99.9% system uptime** across multiple production releases
-
------
-
-## Engineering Principles
-
-- **Security-first by default** — every API hardened: Helmet, rate limiting, validation, sanitizers
-- **Architecture over code** — proper layering, separation of concerns, testable design
-- **Performance is a feature** — pagination, indexing, query optimization, clustering
-- **Real ownership** — from DB schema to CI/CD pipeline to production server config
-
------
-
-## Education
-
-**B.Sc. Computer Science** — Information Technology University, Lahore *(2017 – 2022)*
-
------
-
-## Certifications
-
-Advanced React.js · Advanced Express.js · .NET Core Architecture · Database Optimization · Agile Methodologies
-
------
+<br/>
 
 <div align="center">
 
-*Building systems that scale, APIs that hold, and code that lasts.*
+```
+╔══════════════════════════════════════════════════════╗
+║  I build the infrastructure others build on top of.  ║
+╚══════════════════════════════════════════════════════╝
+```
 
 </div>
+
+<br/>
+
+## `$ whoami`
+
+Engineer based in **KSA** 🇸🇦 — originally from Lahore 🇵🇰
+
+I spend most of my time thinking about how systems *fail at scale* — then building them so they don’t. My work lives in the space between a clean API contract and a production server that never sleeps.
+
+Currently building an **HRMS** that runs payroll, presence, and people data for 2,000+ employees in real time. Before that, shipping features fast at a software house across React, .NET, and Laravel stacks.
+
+When I’m not deep in backend architecture, I’m probably wiring up an AI integration or tuning a deployment pipeline at midnight.
+
+<br/>
+
+## `$ ls ./what-i-work-with`
+
+<div align="center">
+
+|Layer              |Tools                                                     |
+|-------------------|----------------------------------------------------------|
+|**Backend**        |Express.js · .NET Core · Laravel                          |
+|**Frontend**       |React.js · Redux · Angular                                |
+|**Data**           |MySQL · MSSQL · Oracle · Firestore                        |
+|**Real-Time**      |Socket.io · WebSockets · SSE                              |
+|**Cloud & Ops**    |Google Cloud · Docker · Nginx · PM2 · GitHub Actions      |
+|**Auth & Security**|JWT · OAuth2 · OpenID Connect · RBAC                      |
+|**AI**             |OpenAI API · n8n · Nango                                  |
+|**Testing**        |Jest · SuperTest                                          |
+|**Languages**      |JavaScript · TypeScript · C# · PHP · Python · Java · C/C++|
+
+</div>
+
+<br/>
+
+## `$ cat ./things-i-care-about`
+
+```yaml
+architecture:
+  - Systems that don't surprise you at 3am
+  - Proper layering: controllers → services → repositories
+  - Patterns that make onboarding a junior feel safe
+
+security:
+  - Every endpoint hardened before it ships
+  - Auth is not an afterthought
+
+performance:
+  - Pagination, indexing, query planning — deliberate, always
+  - Real-time where it matters; polling where it doesn't
+
+ownership:
+  - I deploy what I build
+  - I monitor what I deploy
+  - I fix what I break
+```
+
+<br/>
+
+## `$ tail -f ./currently`
+
+```
+→  Architecting real-time systems at scale
+→  Exploring agentic AI workflows
+→  Going deeper into distributed systems & system design
+→  Open to interesting backend / full-stack opportunities
+```
+
+<br/>
+
+## `$ ping ./contact`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-wajidalii.me@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=161b22)](mailto:wajidalii.me@gmail.com)
+ 
+[![Portfolio](https://img.shields.io/badge/Web-wajidali.netlify.app-0d1117?style=for-the-badge&logo=safari&logoColor=58a6ff&labelColor=161b22)](https://wajidali.netlify.app)
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://linkedin.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="155"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" height="155"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
