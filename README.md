@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-wajidalii.me%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:wajidalii.me@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-wajidali.netlify.app-0d1117?style=flat-square&logo=netlify&logoColor=white&labelColor=0d1117)](https://wajidali.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/wajid-alii)
 
 </div>
 
