@@ -1,106 +1,88 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=140&section=header&text=Wajid%20Ali&fontSize=48&fontColor=e2e8f0&fontAlignY=55&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║  I build the infrastructure others build on top of.  ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
-## `$ whoami`
-
-Engineer based in **KSA** 🇸🇦 — originally from Lahore 🇵🇰
-
-I spend most of my time thinking about how systems *fail at scale* — then building them so they don’t. My work lives in the space between a clean API contract and a production server that never sleeps.
-
-Currently building an **HRMS** that runs payroll, presence, and people data for 2,000+ employees in real time. Before that, shipping features fast at a software house across React, .NET, and Laravel stacks.
-
-When I’m not deep in backend architecture, I’m probably wiring up an AI integration or tuning a deployment pipeline at midnight.
-
-<br/>
-
-## `$ ls ./what-i-work-with`
+<!--  ═══════════════════════════════════════════════════
+      WAJID ALI — GitHub Profile README
+      Optimized for GitHub dark mode rendering
+      ═══════════════════════════════════════════════════ -->
 
 <div align="center">
 
-|Layer              |Tools                                                     |
-|-------------------|----------------------------------------------------------|
-|**Backend**        |Express.js · .NET Core · Laravel                          |
-|**Frontend**       |React.js · Redux · Angular                                |
-|**Data**           |MySQL · MSSQL · Oracle · Firestore                        |
-|**Real-Time**      |Socket.io · WebSockets · SSE                              |
-|**Cloud & Ops**    |Google Cloud · Docker · Nginx · PM2 · GitHub Actions      |
-|**Auth & Security**|JWT · OAuth2 · OpenID Connect · RBAC                      |
-|**AI**             |OpenAI API · n8n · Nango                                  |
-|**Testing**        |Jest · SuperTest                                          |
-|**Languages**      |JavaScript · TypeScript · C# · PHP · Python · Java · C/C++|
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Wajid+Ali+%F0%9F%91%8B;Full+Stack+Engineer;Backend+%7C+Real-Time+%7C+AI+Systems" alt="Typing SVG" />
+</h1>
 
-</div>
+<p><em>I build the infrastructure others build on top of.</em></p>
 
 <br/>
 
-## `$ cat ./things-i-care-about`
+[![Email](https://img.shields.io/badge/Gmail-wajidalii.me%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:wajidalii.me@gmail.com)
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-wajidali.netlify.app-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7&labelColor=161b22)](https://wajidali.netlify.app)
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://linkedin.com)
+
+</div>
+
+-----
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="300"/>
+
+### whoami
+
+Engineer based in **KSA** 🇸🇦, originally from Lahore 🇵🇰
+
+4+ years building systems that scale — from layered backend architecture to real-time infrastructure to AI-powered features in production.
+
+Currently running a full-stack **HRMS** for 2,000+ employees. Always thinking about what breaks at scale before it does.
+
+<br clear="right"/>
+
+-----
+
+### What I Work With
+
+```text
+Backend        Express.js · .NET Core · Laravel
+Frontend       React.js · Redux · Angular
+Databases      MySQL · MSSQL · Oracle · Firestore
+Real-Time      Socket.io · WebSockets · SSE
+Cloud & Ops    Google Cloud · Docker · Nginx · PM2 · GitHub Actions
+Auth           JWT · OAuth2 · OpenID Connect · RBAC
+AI             OpenAI API · n8n · Nango · Google Workflows
+Testing        Jest · SuperTest
+Languages      JS · TS · C# · PHP · Python · Java · C/C++
+```
+
+-----
+
+### How I Think
 
 ```yaml
-architecture:
-  - Systems that don't surprise you at 3am
-  - Proper layering: controllers → services → repositories
-  - Patterns that make onboarding a junior feel safe
-
-security:
-  - Every endpoint hardened before it ships
-  - Auth is not an afterthought
-
-performance:
-  - Pagination, indexing, query planning — deliberate, always
-  - Real-time where it matters; polling where it doesn't
-
-ownership:
-  - I deploy what I build
-  - I monitor what I deploy
-  - I fix what I break
+architecture : proper layering, not spaghetti — controllers → services → repos
+security     : hardened by default, never bolted on at the end
+performance  : paginate, index, plan queries — before traffic proves you wrong
+ownership    : I deploy it, I monitor it, I fix it
 ```
 
-<br/>
+-----
 
-## `$ tail -f ./currently`
+### Currently
 
+```bash
+$ working on   →  real-time HRMS at scale (KSA)
+$ learning     →  distributed systems · agentic AI workflows
+$ open to      →  backend / full-stack opportunities
+$ building     →  systems that don't page you at 3am
 ```
-→  Architecting real-time systems at scale
-→  Exploring agentic AI workflows
-→  Going deeper into distributed systems & system design
-→  Open to interesting backend / full-stack opportunities
-```
 
-<br/>
-
-## `$ ping ./contact`
+-----
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-wajidalii.me@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=161b22)](mailto:wajidalii.me@gmail.com)
- 
-[![Portfolio](https://img.shields.io/badge/Web-wajidali.netlify.app-0d1117?style=for-the-badge&logo=safari&logoColor=58a6ff&labelColor=161b22)](https://wajidali.netlify.app)
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://linkedin.com)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" height="160"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160"/>
+
+<br/><br/>
+
+<sub>⚡ Crafted with intent — not generated with defaults</sub>
 
 </div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="155"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" height="155"/>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
