@@ -17,13 +17,13 @@
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-wajidali.netlify.app-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7&labelColor=161b22)](https://wajidali.netlify.app)
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://www.linkedin.com/in/wajid-alii/)
 
 </div>
 
 -----
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="300"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajidalii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="300"/>
 
 ### whoami
 
