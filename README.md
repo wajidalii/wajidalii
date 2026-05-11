@@ -23,8 +23,6 @@
 
 -----
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajidalii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="300"/>
-
 ### whoami
 
 Engineer based in **KSA** 🇸🇦, originally from Lahore 🇵🇰
