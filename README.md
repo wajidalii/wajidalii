@@ -45,8 +45,11 @@ Languages      JS · TS · C# · PHP · Python · Java · C/C++
 ### Selected Work
 
 ```yaml
+Beam AI          : Enterprise agentic automation platform (Berlin · Abu Dhabi · NYC · Karachi)
+                   AI agent orchestration · self-learning workflows · 1000+ system integrations
+
 AfterSchool HQ   : Full-stack platform for US K-12 after-school programs
-                   React · Node.js · role-based dashboards · real-time scheduling
+                   React · .NET · role-based dashboards · real-time scheduling
 
 iHorizons        : Enterprise SaaS — scalable backend services & system integrations
                    .NET Core · REST APIs · multi-tenant architecture
