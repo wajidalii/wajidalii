@@ -6,7 +6,7 @@
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Wajid+Ali+%F0%9F%91%8B;Full+Stack+Engineer;Backend+%7C+RAG+Pipelines+%7C+AI+Systems" alt="Typing SVG" />
 </h1>
-<p><em>I build the infrastructure others build on top of.</em></p>
+<p><em>I build the infrastructure others build on top of — and I stay until it's right.</em></p>
 <br/>
 
 [![Email](https://img.shields.io/badge/Gmail-wajidalii.me%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:wajidalii.me@gmail.com)
@@ -23,6 +23,8 @@
 Engineer based in **Lahore** 🇵🇰, with hands-on experience across **Gulf-region** 🇸🇦 and **US-based** 🇺🇸 products.  
 4+ years shipping production systems — RAG pipelines, AI chatbots, real-time infrastructure, and full-stack SaaS platforms.  
 Currently deep in **agentic AI workflows** and **LLM-integrated backends**. Always thinking about what breaks at scale before it does.
+
+I don't treat code as a 9-to-5 output. If a system I own is misbehaving, I'm the one debugging it at midnight — not because I have to, but because I said I'd own it. That's the whole philosophy: **commit to the problem, not just the ticket.**
 
 ---
 
@@ -59,6 +61,9 @@ Enbiosis          : AI-powered health & microbiome analysis platform
 
 AI Chatbot (RAG) : Context-aware assistant with retrieval-augmented generation
                    vector embeddings · semantic search · streaming responses
+
+ReelBridge       : Content-distribution tool that bridges media to every platform
+                   TypeScript · Docker · currently in active development
 ```
 
 ---
@@ -72,6 +77,18 @@ security     : hardened by default, never bolted on at the end
 performance  : paginate, index, plan queries — before traffic proves you wrong
 ownership    : I deploy it, I monitor it, I fix it
 ```
+
+---
+
+### Why I Build
+
+```yaml
+passion    : the pull to understand *why* something works, not just that it does
+dedication : showing up for the unglamorous parts — migrations, logging, docs, edge cases
+commitment : if my name is on the commit, I own its consequences in production
+```
+
+I'd rather ship something smaller and solid than something large and shaky. Every system on this profile is something I designed, deployed, and kept alive — not a tutorial clone.
 
 ---
 
