@@ -1,109 +1,90 @@
-<!-- ═══════════════════════════════════════════════════
-     WAJID ALI — GitHub Profile README
-     Optimized for GitHub dark mode rendering
-     ═══════════════════════════════════════════════════ -->
 <div align="center">
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Wajid+Ali+%F0%9F%91%8B;Full+Stack+Engineer;Backend+%7C+RAG+Pipelines+%7C+AI+Systems" alt="Typing SVG" />
-</h1>
-<p><em>I build the infrastructure others build on top of — and I stay until it's right.</em></p>
-<br/>
 
-[![Email](https://img.shields.io/badge/Gmail-wajidalii.me%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:wajidalii.me@gmail.com)
- 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wajidali.netlify.app-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7&labelColor=161b22)](https://wajidali.netlify.app)
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://www.linkedin.com/in/wajid-alii/)
+# Wajid Ali
+
+### Senior Software Engineer · Full-Stack · AI-Integrated SaaS
+
+**5+ years** shipping production systems for Gulf-region and US-based products · Lahore, Pakistan 🇵🇰 · Open to remote and relocation
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-wajidali.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wajidali.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wajid--alii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajid-alii/)
+[![Email](https://img.shields.io/badge/Email-wajidalii.me%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wajidalii.me@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-2EA44F?style=for-the-badge&logo=readthedocs&logoColor=white)](./Wajid%20Ali%20-%20Resume.pdf)
+
 </div>
 
 ---
 
-### whoami
+## 👋 About me
 
-Engineer based in **Lahore** 🇵🇰, with hands-on experience across **Gulf-region** 🇸🇦 and **US-based** 🇺🇸 products.  
-4+ years shipping production systems — RAG pipelines, AI chatbots, real-time infrastructure, and full-stack SaaS platforms.  
-Currently deep in **agentic AI workflows** and **LLM-integrated backends**. Always thinking about what breaks at scale before it does.
+I'm a senior full-stack engineer who owns systems end to end: architecture, code, security, deployment and the on-call fixes after launch. I currently **lead a team of 6 developers** at BDCC (Saudi Arabia), where I built and run a multi-tenant HR and payroll platform used by **3,000+ employees**. Before that I worked on an AI automation platform at **Beam.ai** and on enterprise products at **Devsinc**.
 
-I don't treat code as a 9-to-5 output. If a system I own is misbehaving, I'm the one debugging it at midnight — not because I have to, but because I said I'd own it. That's the whole philosophy: **commit to the problem, not just the ticket.**
+**Open to:** Senior / Lead Full-Stack, Backend, and AI-product engineering roles. Remote, or on-site with visa sponsorship.
 
 ---
 
-### What I Work With
+## 📈 Impact highlights
+
+| Problem | What I did | Result |
+|---|---|---|
+| HR platform pages were slow and heavy | Moved search, sorting and paging to the server; split the app into on-demand chunks | Employee list **4.3 MB → 2 KB** per page · salary sheet **11 s → 0.3 s** · initial download **3.4 MB → 500 KB** |
+| Payroll had to move off a fragile legacy calculation without breaking anyone's pay | Rebuilt the payroll engine on the server and compared it line by line against real months | **0 differing rows** over 2 payroll months for **2,100+ employees**, plus a double-counting bug fixed |
+| A single-company system had to become a product other companies could buy | Led the rebuild into a multi-tenant SaaS with a separate database per company | **315 pull requests** across **41 server modules** in about 10 days |
+| HR staff needed answers from data without writing reports | Built an AI HR assistant that turns plain-English questions into checked database queries | Running in production on live employee data |
+| Bugs and security gaps kept reaching users | Added automated tests, visual checks and a security sweep | **~2,300 tests** (incl. 123 visual snapshots) · **20+ critical vulnerabilities** closed · **107 crashes** removed |
+| Servers went down and backups were manual | Moved hosting to Linux with process monitoring, automated backups and CI/CD | **99.9% uptime** |
+
+---
+
+## 💼 Experience
+
+**Senior Software Engineer · BDCC (Bin Delamah Contracting Co.), Saudi Arabia** · *Sep 2023 – Present*
+Lead a team of 6. Built the company's HR, payroll, fleet and contracts platform (25+ live modules), its Flutter mobile app for employees, real-time chat and tasks, and an AI HR assistant. Live: [hr.wajidali.dev](https://hr.wajidali.dev)
+
+**Software Engineer · Beam.ai (Remote)** · *May 2024 – Mar 2025*
+Worked on an enterprise AI-agent automation platform. Built the integrations that connect agents to Google Docs, Drive, Sheets, Slack and other services, including sign-in, token refresh and data sync.
+
+**Software Engineer · Devsinc, Lahore** · *Oct 2021 – Aug 2023*
+Built enterprise web apps for US and Gulf clients (AfterSchool HQ, iHorizons), including single sign-on across apps, role-based access and admin impersonation.
+
+---
+
+## 🚀 Featured projects
+
+| Project | What it solves |
+|---|---|
+| [**ReelBridge**](https://github.com/wajidalii/ReelBridge) | Creators post the same short video to many platforms by hand. ReelBridge uploads a batch once and schedules each clip to Facebook, Instagram and YouTube with per-platform captions, including app-managed scheduling where Instagram has none. |
+| [**Asnan Medical App**](https://github.com/wajidalii/asnan-medical-app) | Patients double-booking the same slot. A telemedicine app (Flutter + ASP.NET Core) with concurrency-safe booking, payment, live chat with the doctor and push notifications. |
+| [**DocsLite**](https://github.com/wajidalii/Docs-Lite) · [live](https://docs-lite-xi.vercel.app) | A lightweight Google Docs: rich-text editing, sharing with viewer/editor roles, version history, workspaces and full-text search, with every access checked on the server. |
+| [**Portfolio**](https://github.com/wajidalii/portfolio) · [live](https://wajidali.dev) | My personal site, built to rank in search and AI answer engines, with an admin panel and contact form. |
+| [**Express Production Kit**](https://github.com/wajidalii/express-production-kit) | Every new API re-solves auth, roles, rate limiting and error handling. A secure Express starter with all of that tested out of the box. |
+| [**Claude Agents Core**](https://github.com/wajidalii/claude-agents-core) | Reusable Claude Code agents and a standard `CLAUDE.md` to give any repo an AI-assisted plan → build → review workflow. |
+
+---
+
+## 🛠️ Tech stack
 
 ```text
-AI & LLMs      OpenAI API · Anthropic Claude · RAG Pipelines · Vector Search · n8n · Agentic Workflows
-Backend        Express.js · .NET Core · Laravel
-Frontend       React.js · Redux · Angular
-Databases      MySQL · MSSQL · PostgreSQL · Firestore · pgvector
-Real-Time      Socket.io · WebSockets · SSE
-Cloud & Ops    Google Cloud · Docker · Nginx · PM2 · GitHub Actions
-Auth           JWT · OAuth2 · OpenID Connect · RBAC
-Testing        Jest · SuperTest
-Languages      JS · TS · C# · PHP · Python · Java · C/C++
+Languages      TypeScript · JavaScript · C# · Dart · PHP · Python · SQL
+Frontend       React · Next.js · Angular · Redux · TanStack Query · Tailwind CSS
+Backend        Node.js · Express · NestJS · ASP.NET Core · Laravel
+Mobile         Flutter (iOS · Android · Web) · offline-first sync · FCM
+AI             OpenAI API · Claude · RAG · Text-to-SQL · agentic workflows · n8n
+Databases      PostgreSQL · MySQL · MongoDB · MSSQL · Redis · Prisma · Drizzle
+Real-time      Socket.IO · WebSockets · SSE · BullMQ
+Cloud/DevOps   AWS (EC2, S3) · Vercel · Firebase · Docker · Nginx · PM2 · Linux · GitHub Actions
+Auth           JWT · OAuth2 · OpenID Connect · RBAC · Azure AD B2C
+Testing        Vitest · Jest · Playwright · Cypress · SuperTest
 ```
 
 ---
 
-### Selected Work
+## 📫 Let's talk
 
-```yaml
-Beam AI          : Enterprise agentic automation platform (Berlin · Abu Dhabi · NYC · Karachi)
-                   AI agent orchestration · self-learning workflows · 1000+ system integrations
-
-AfterSchool HQ   : Full-stack platform for US K-12 after-school programs
-                   React · .NET · role-based dashboards · real-time scheduling
-
-iHorizons        : Enterprise SaaS — scalable backend services & system integrations
-                   .NET Core · REST APIs · multi-tenant architecture
-
-Enbiosis          : AI-powered health & microbiome analysis platform
-                   RAG pipeline · LLM integration · data-driven insights API
-
-AI Chatbot (RAG) : Context-aware assistant with retrieval-augmented generation
-                   vector embeddings · semantic search · streaming responses
-
-ReelBridge       : Content-distribution tool that bridges media to every platform
-                   TypeScript · Docker · currently in active development
-```
-
----
-
-### How I Think
-
-```yaml
-architecture : proper layering, not spaghetti — controllers → services → repos
-AI systems   : RAG over fine-tuning where possible — cheaper, auditable, updatable
-security     : hardened by default, never bolted on at the end
-performance  : paginate, index, plan queries — before traffic proves you wrong
-ownership    : I deploy it, I monitor it, I fix it
-```
-
----
-
-### Why I Build
-
-```yaml
-passion    : the pull to understand *why* something works, not just that it does
-dedication : showing up for the unglamorous parts — migrations, logging, docs, edge cases
-commitment : if my name is on the commit, I own its consequences in production
-```
-
-I'd rather ship something smaller and solid than something large and shaky. Every system on this profile is something I designed, deployed, and kept alive — not a tutorial clone.
-
----
-
-### Currently
-
-```bash
-$ working on   →  RAG pipelines · agentic AI workflows
-$ learning     →  distributed systems · LLM orchestration · vector DBs
-$ open to      →  backend / full-stack / AI-integrated product roles
-$ building     →  systems that don't page you at 3am
-```
-
----
+Hiring for a senior full-stack, backend or AI-product role? Email me at **[wajidalii.me@gmail.com](mailto:wajidalii.me@gmail.com)** or message me on **[LinkedIn](https://www.linkedin.com/in/wajid-alii/)**.
 
 <div align="center">
-<br/><br/>
-<sub>⚡ Crafted with intent — not generated with defaults</sub>
+
+<sub>BS Computer Science · Information Technology University (ITU), Lahore</sub>
+
 </div>
