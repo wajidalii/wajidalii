@@ -54,6 +54,7 @@ Built enterprise web apps for US and Gulf clients (AfterSchool HQ, iHorizons), i
 | Project | What it solves |
 |---|---|
 | [**ReelBridge**](https://github.com/wajidalii/ReelBridge) | Creators post the same short video to many platforms by hand. ReelBridge uploads a batch once and schedules each clip to Facebook, Instagram and YouTube with per-platform captions, including app-managed scheduling where Instagram has none. |
+| **ScriptToVideo** · *private* | Making a short explainer video takes hours of writing, recording and editing. ScriptToVideo turns a topic or script into a narrated, animated MP4: AI writes the script, generates the voiceover, syncs every word to on-screen visuals, and lets you edit before rendering. |
 | [**Asnan Medical App**](https://github.com/wajidalii/asnan-medical-app) | Patients double-booking the same slot. A telemedicine app (Flutter + ASP.NET Core) with concurrency-safe booking, payment, live chat with the doctor and push notifications. |
 | [**DocsLite**](https://github.com/wajidalii/Docs-Lite) · [live](https://docs-lite-xi.vercel.app) | A lightweight Google Docs: rich-text editing, sharing with viewer/editor roles, version history, workspaces and full-text search, with every access checked on the server. |
 | [**Portfolio**](https://github.com/wajidalii/portfolio) · [live](https://wajidali.dev) | My personal site, built to rank in search and AI answer engines, with an admin panel and contact form. |
